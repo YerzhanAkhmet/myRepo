@@ -4,9 +4,9 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "users":[
-    {"id": 0, "userName": "Vika"},
-    {"id": 1, "userName": "Yerzhan"}
+  "users": [
+    { "id": 0, "userName": "Vika" },
+    { "id": 1, "userName": "Yerzhan" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
