@@ -10,7 +10,7 @@
     { "id": 0, "name": "Vika", "phone": "12345" },
     { "id": 1, "name": "Yerzhan", "phone": "12345" }
   ],
-  "photos": [ { "albumId": 1, "id": 1, "url": "http://madamelavie.ru/wp-content/uploads/2016/01/rasskaz_o_dne_kosmonavtiki.jpg" }, { "albumId": 1, "id": 2, "url": "https://www.calend.ru/img/content/i0/32.jpg" }, { "albumId": 1, "id": 3, "url": "https://cdnimg.rg.ru/img/content/167/80/72/iStock-1012400706_t_200x134.jpg" }]
+  "photos": [ { "albumId": 1, "id": 1, "url": "http://madamelavie.ru/wp-content/uploads/2016/01/rasskaz_o_dne_kosmonavtiki.jpg" }, { "albumId": 1, "id": 2, "url": "https://www.calend.ru/img/content/i0/32.jpg" }, { "albumId": 1, "id": 3, "url": "https://cdnimg.rg.ru/img/content/167/80/72/iStock-1012400706_t_200x134.jpg" }],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
